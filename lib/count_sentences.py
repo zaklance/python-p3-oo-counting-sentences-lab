@@ -32,5 +32,3 @@ class MyString:
             if len(item) != 0:
                 count += 1
         return count
-        
-
